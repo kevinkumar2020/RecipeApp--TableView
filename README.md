@@ -3,7 +3,7 @@
 ### This Is a Recipe App.
 ### This App Will Use To Make New Delicious Dishes.
 
-## Using Controller :
+## Used Model :
 
 * UITableView
 * UITableViewCell
